@@ -1,0 +1,7 @@
+# Example Docs
+
+> A short summary of the project.
+
+## Docs
+
+- [Missing](https://example.com/missing): This page is gone

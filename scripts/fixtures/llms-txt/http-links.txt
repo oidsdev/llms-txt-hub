@@ -1,0 +1,7 @@
+# Example Docs
+
+> A short summary of the project.
+
+## Docs
+
+- [Start](http://example.com/start): How to begin

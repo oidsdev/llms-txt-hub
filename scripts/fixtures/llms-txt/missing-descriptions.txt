@@ -1,0 +1,8 @@
+# Example Docs
+
+> A short summary of the project.
+
+## Docs
+
+- [Start](https://example.com/start)
+- [API](https://example.com/api): Endpoint reference
