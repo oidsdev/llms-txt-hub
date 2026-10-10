@@ -17,6 +17,7 @@
     "generate-llms-chatbot-index": "node scripts/llms-chatbot-index-generator.js",
     "generate-websites": "tsx scripts/generate-websites.ts",
     "generate:llms": "pnpm --filter generator start",
+    "generate:sitemap": "pnpm --filter generator sitemap",
     "generate:website": "turbo gen website",
     "postinstall": "manypkg fix",
     "lint": "pnpm check:websites && turbo lint && manypkg check",
