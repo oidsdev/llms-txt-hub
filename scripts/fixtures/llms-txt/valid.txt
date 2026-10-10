@@ -1,0 +1,14 @@
+# Example Docs
+
+> A short summary of the project.
+
+Optional details for agents.
+
+## Docs
+
+- [Start](https://example.com/start): How to begin
+- [API](https://example.com/api): Endpoint reference
+
+## Optional
+
+- [Changelog](https://example.com/changelog): Release notes
